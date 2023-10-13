@@ -1,0 +1,4 @@
+What is GitHub?
+GitHub is a web interface where you store your Git repositories and track and manage your changes effectively. It gives access to the code to various developers working on the same project. You can make your own changes to a project at the same time as other developers are making theirs.
+
+If you accidentally mess up some code in your project while making changes, you can easily go back to the previous stage where the mess has not occurred yet.
