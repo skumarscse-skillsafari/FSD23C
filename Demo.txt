@@ -8,5 +8,3 @@ There are so many reasons you should learn and use GitHub. Let's look at a few o
 
 Effective Project Management
 GitHub is a place where your Git repositories are stored. GitHub makes it easy for developers working on the same project but in different locations to be on the same page.
-
-With GitHub, you can easily track and manage the changes you have made and check on the progress you've made in your project.
